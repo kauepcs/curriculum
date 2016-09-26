@@ -8,7 +8,7 @@ language: "" # language to set into html tag, default is en
 
 author: Kaue Medeiros
 author-title: BI and Database Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
+# gravatar: d36a082aacb53b6f76869748fb4b81d4
 email: kauepcs@gmail.com
 facebook: kaue.medeiros
 linkedin: kauemedeiros
